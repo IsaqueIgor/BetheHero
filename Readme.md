@@ -1,3 +1,7 @@
+<h1 align="center">
+    <img alt="BeTheHero" title="#BeTheHero" src="./frontend/src/assets/logo.svg" width="380px" />
+</h1>
+
 <h4 align="center"> 
 	:construction: 🚀 Semana OmniStack 11.0 In progress.. :construction:
 </h4>
@@ -9,6 +13,9 @@
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-how-to-contribute">How to contribute</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
+<p align="center">
+  <img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia"></a>
+</p>
 
 <br>
 
@@ -18,8 +25,8 @@
 This project was developed with the following technologies:
 
 - [Node.js](https://nodejs.org/en/) 
-- [React](https://reactjs.org) in coming :construction:
-- [React Native](https://facebook.github.io/react-native/) in coming :construction:
+- [React](https://reactjs.org) 
+- [React Native](https://facebook.github.io/react-native/)
 - [Expo](https://expo.io/) in coming :construction:
 
 ## 💻 Project
@@ -28,7 +35,9 @@ Be The Hero is a project that aims to connect people who are willing to help ONG
 
 ## 🔖 Layout
 
-	:construction: In progress.. :construction:
+<p align="center">
+   <img src="./github-assets/mainlayout.png" alt="Run in Insomnia" width='380px'></a>
+</p>
 
 ## 🤔 How to contribute
 

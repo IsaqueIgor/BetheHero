@@ -14,8 +14,7 @@ export default function NewIncident() {
               <img src={logoImg} alt="Be The Hero" />
               <h1>Register new Incident</h1>
               <p>
-                Descreva o caso detalhadamente para encontrar um herói para resolver
-                isso.
+              Describe the case in detail to find a hero to solve this.
               </p>
     
               <Link to="/profile" className="back-link">
