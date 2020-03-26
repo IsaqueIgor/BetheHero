@@ -13,7 +13,7 @@ module.exports = {
     const { name, email, whatsapp, city, uf } = req.body;
     
     const id = crypto.randomBytes(4).toString("HEX");
-    
+
     await connection("ongs").insert({
       id,
       name,

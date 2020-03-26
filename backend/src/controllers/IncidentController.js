@@ -4,17 +4,17 @@ module.exports = {
     async index (request, response) {
         const { page = 1 } = request.query;
 
-       const [count] = await connection('casos').count()
+       const [count] = await connection('incidents').count()
 
-        const casos = await connection('casos')
+        const incidents = await connection('incidents')
             .join('ongs', 'ongs.id', "=", 'casos.ong_id')
             .limit(5)
             .offset((page-1)*5)
-            .select(['casos.*',
-            'ongs.nome',
+            .select(['incidents.*',
+            'ongs.name',
             'ongs.email',
             'ongs.whatsapp',
-            'ongs.cidade',
+            'ongs.city',
             'ongs.uf'
         ]);
 
