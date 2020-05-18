@@ -1,10 +1,6 @@
 <h1 align="center">
-    <img alt="BeTheHero" title="#BeTheHero" src="./frontend/src/assets/logo.svg" width="380px" />
+    <img alt="BeTheHero" title="#BeTheHero" src="./mobile/assets/icon.png" width="380px" />
 </h1>
-
-<h4 align="center"> 
-	:construction: 🚀 Semana OmniStack 11.0 In progress.. :construction:
-</h4>
 
 
 <p align="center">
@@ -31,12 +27,14 @@ This project was developed with the following technologies:
 
 ## 💻 Project
 
-Be The Hero is a project that aims to connect people who are willing to help ONGs.
+Be The Hero is a project that aims to connect people who are willing to financially help a charity.
 
 ## 🔖 Layout
 
 <p align="center">
-   <img src="./github-assets/mainlayout.png" alt="layout" width='380px'></a>
+   <img src="./github-assets/mainlayout.png" alt="layout" width="50%" height="50%"></a>
+   <img src="./github-assets/Screenshot_1_Expo.jpg" alt="layoutmobile" width="50%" height="50%" ></a>
+   <img src="./github-assets/Screenshot_2_Expo.jpg" alt="layout2mobile" width="50%" height="50%" ></a>
 </p>
 
 ## 🤔 How to contribute
