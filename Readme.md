@@ -36,7 +36,7 @@ Be The Hero is a project that aims to connect people who are willing to help ONG
 ## 🔖 Layout
 
 <p align="center">
-   <img src="./github-assets/mainlayout.png" alt="Run in Insomnia" width='380px'></a>
+   <img src="./github-assets/mainlayout.png" alt="layout" width='380px'></a>
 </p>
 
 ## 🤔 How to contribute
